@@ -1,4 +1,4 @@
-# Ei, eu sou o Vitor! 👋
+# Olá, eu sou o Vitor! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Vitor%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorrfernandes/)](https://www.linkedin.com/in/vitorrfernandes/)
 
