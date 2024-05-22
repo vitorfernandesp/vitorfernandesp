@@ -1,4 +1,4 @@
-# Administrador de Banco de Dados - Vitor Fernandes
+Olá 👋
 
 ## Sobre
 Sou Vitor Fernandes, um Administrador de Banco de Dados na Celcoin, uma infratech que oferece serviços financeiros digitais para seus clientes. Tenho mais de dois anos de experiência na área de banco de dados, tendo iniciado como estagiário na mesma empresa e depois sendo efetivado. Atuo na modelagem, administração e manutenção de bancos de dados relacionais e não-relacionais. Contribuo para o desenvolvimento de soluções inovadoras e ágeis para o open finance, apoiando a missão da empresa de democratizar o acesso a serviços financeiros. Sou apaixonado por tecnologia, aprendizado contínuo e colaboração, e busco sempre me aprimorar e agregar valor ao meu time e à minha organização.
